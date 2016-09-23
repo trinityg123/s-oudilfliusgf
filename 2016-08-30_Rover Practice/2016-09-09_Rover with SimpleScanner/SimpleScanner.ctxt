@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimpleScanner()
+comment1.params=showExceptions
+comment1.target=SimpleScanner(boolean)
+comment2.params=
+comment2.target=java.lang.String\ readString()
+comment3.params=
+comment3.target=int\ readInt()
+comment4.params=min\ max
+comment4.target=int\ readInt(int,\ int)
+comment5.params=
+comment5.target=double\ readDouble()
+comment6.params=min\ max
+comment6.target=double\ readDouble(double,\ double)
+numComments=7
